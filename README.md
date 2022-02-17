@@ -1,4 +1,8 @@
-# CS4248-Assignment1
+### Assignment Tasks
+1. Tokenizer - Tokenize input text using both RegEx and BPE, plot word frequency 
+2. Edit distance - Function for calculating minimum edit distance between two strings. Used to check for approximate matches of words. 
+3. Sentiment analysis - Perform basic sentiment analysis on input Tweets. Compare sentiment analysis when emoticons are considered. 
+4. Language model - Language model to be trained on a text corpus. Used to randomly generate next word or texts of any length. Calculates perplexity score.  
 
 ### Directory Structure
 ```

@@ -25,16 +25,3 @@
   * `lexicon_sentiment.txt`: list of lexicon sentiment we utilize for sentiment classification in the basic method of objective 3
 
 * **plots**: directory to save the plot figures
-
-#### Submission
-
-* Rename your writeup with your matriculation number (e.g., `A000000X.pdf`).
-
-* Wrap the codes folder, plots folder, and writeup in a `.zip` folder and submit on **LumiNUS**, also rename it with your matriculation number (e.g., `A000000X.zip`).
-  * The structure of the `.zip` folder should look like:
-    ```
-    ———— A000000X
-     |__ codes 
-     |__ plots 
-     |__ A000000X.pdf
-    ```
